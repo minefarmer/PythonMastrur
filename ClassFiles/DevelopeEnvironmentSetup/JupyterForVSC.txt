@@ -1,9 +1,14 @@
                     Development environment setup for  VSC
-rich@dell-lmde:~/Desktop/CarlsHub/PythonMastrur$ jupyter notebook
- 
-Command 'jupyter' not found, but can be installed with:
 
-sudo apt install jupyter-core
+1. Open VSC in the directory that I want to launch Jupyter notebooks
+2. jupyter notebook  # Starts the notebook server
 
+3. Creating a new notebook.
+    a. Click on the NEW button.
+    b. Click on Python3.
+    c. Click on Untitled.
+    d. Enter title of the new notebook.
+    e. Click on Jupyter icon.
+    f. Go to running tab and click.  # It will show which file is running.
 
-
+23. Use Control-C to shut down the notebook server.
