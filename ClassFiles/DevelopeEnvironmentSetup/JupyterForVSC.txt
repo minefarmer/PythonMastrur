@@ -1,0 +1,9 @@
+                    Development environment setup for  VSC
+rich@dell-lmde:~/Desktop/CarlsHub/PythonMastrur$ jupyter notebook
+ 
+Command 'jupyter' not found, but can be installed with:
+
+sudo apt install jupyter-core
+
+
+
