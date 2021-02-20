@@ -12,3 +12,5 @@
     f. Go to running tab and click.  # It will show which file is running.
 
 23. Use Control-C to shut down the notebook server.
+
+Did this work?
