@@ -51,5 +51,3 @@ print(string.ascii_lowercase) # abcdefghijklmnopqrstuvwxyz
 
 from string import ascii_lowercase
 print(ascii_lowercase)  # abcdefghijklmnopqrstuvwxyz
-
-TODO: Coding Exercise 2: Strings basics exercise
