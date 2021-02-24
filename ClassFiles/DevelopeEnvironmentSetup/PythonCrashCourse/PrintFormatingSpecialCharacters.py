@@ -58,10 +58,10 @@
                     #         but I do nothing.
 
 
-print("I'm using the \n special character to create new lines.")  # I'm using the 
+# print("I'm using the \n special character to create new lines.")  # I'm using the 
     #  special character to create new lines.
 
 
-print("I'm using the \\n special character to create new lines.")
+# print("I'm using the \\n special character to create new lines.")  # I'm using the \n special character to create new lines.
 
 
