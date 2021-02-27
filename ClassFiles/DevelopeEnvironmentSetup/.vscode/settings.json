@@ -1,3 +1,26 @@
 {
-    "python.pythonPath": "/home/rich/anaconda3/bin/python"
+    "workbench.startupEditor": "newUntitledFile",
+    "tabnine.experimentalAutoImports": true,
+    "guides.enabled": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "jupyter.alwaysTrustNotebooks": true,
+    "git-autoconfig.configList": [
+        {
+            "user.email": "pgoldfarm@yahoo.com",
+            "user.name": "minefarmer"
+        }
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": Cobalt2",
+    "python.languageServer": "Pylance",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "editor.wordWrap": "on",
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "java.home": "C:\\Users\\pgold\\AppData\\Local\\Programs\\AdoptOpenJDK\\jdk-11.0.9.101-hotspot",
+    "java.help.firstView": "gettingStarted",
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.shell.linux": ""
 }
