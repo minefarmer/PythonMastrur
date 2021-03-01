@@ -1,4 +1,4 @@
-
+!/user/bin/python3
 # print("Welcome to the calc program")
 # print("-"*30)
 # choice = input("Choose 1 to multiply, 2 to divide-> ")  # 1
